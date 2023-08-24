@@ -1,0 +1,13 @@
+.idea
+*.html
+*.xml
+__pycache__/
+results
+data/staging.yaml
+.pabotsuitenames
+data/prod.yaml
+*.png
+*.pyc
+.DS_Store
+venv/
+pabot_results/
