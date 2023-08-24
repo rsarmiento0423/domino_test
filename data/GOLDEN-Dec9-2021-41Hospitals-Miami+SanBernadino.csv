@@ -1,0 +1,42 @@
+Location Name,"Street Address (Required, street name and number)",City (Required),"State (Required, NN format)",Zip Code (Required),"Latitude (Optional, nnn.nnnnnn)","Longitude (Optional, nnn.nnnnnn)",Location Type (Optional),Location Group (Optional)
+The Fresh Market - Doral,3580 NW 83 Ave,Doral,FL,33166,25.809507,-80.331852,Non-healthcare,Grocery
+Memorial Hospital Miramar,1901 SW 172nd Avenue,Miramar,FL,33027,25.990673,-80.373099,General Acute Care,
+Joe Dimaggio Children’s Hospital,1005 Joe DiMaggio Dr,Hollywood,FL,33021,,,Children,
+Nicklaus Children’s Hospital,3100 SW 62nd Ave,Miami,FL,33155,,,Children,
+Victor Valley Global Medical Center,15248 Eleventh Street,Victorville,CA,92395,,,General Acute Care,
+Kaiser Permanente Hospital - Baldwin Park,1011 Baldwin Park Blvd.,Baldwin Park,CA,91706,,,General Acute Care,Kaiser
+St. Catherine's Rehabilitation Hospital,1050 NE 125th St,North Miami,FL,33161,,,Rehabilitation,
+Kindred Hospital - Rancho Cucamonga,10841 White Oak Avenue,Rancho Cucamonga,CA,91730,,,General Acute Care,Kindred
+VA Loma Linda Healthcare System,11201 Benton St,Loma Linda,CA ,92354,,,Military,VA
+Kendall Regional Medical Center,11750 SW 40th Street,Miami,FL,33175,,,General Acute Care,
+San Dimas Community Hospital,1350 West Covina Boulevard,San Dimas,CA,91773,,,General Acute Care,
+Select Speciality Hospital of Miami - Hialeah,14001 NW 82nd Ave,Hialeah,FL,33016,,,Long Term Care,
+Larkin Community Hospital Palm Springs Campus,1475 W. 49th St,Hialeah,FL,33012,,,General Acute Care,
+Jackson Memorial Mental Health Center - Inpatient,1695 NW 9th Ave,Miami,FL,33136,,,Psychiatric,
+Totally Kids Rehabilitation Center,1720 Mountain View Ave,Loma Linda,CA,92354,,,Children,
+Ballard Rehabilitation Hospital,1760 West 16th Street,San Bernardino,CA ,92411,,,Rehabilitation,
+Pomona Valley Hospital Medical Center,1798 North Garey Avenue,Pomona,CA ,91767,,,General Acute Care,
+Community Hospital of San Bernardino,1805 Medical Center Drive,San Bernardino,CA,92411,34.131631,-117.320901,General Acute Care,
+Emanate Health Inter-Community Hospital,210 W. San Bernardino Road,Covina,CA,91723,,,General Acute Care,
+St. Bernardine Medical Center,2101 North Waterman Avenue,San Bernardino,CA,92404,,,General Acute Care,
+Kaiser Permanente Hospital - Ontario,2295 S. Vineyard Avenue,Ontario,CA,91761,,,General Acute Care,Kaiser
+Keralty Hospital Miami,2500 SW 75th Ave,Miami,FL,33155,,,General Acute Care,
+West Gables Rehabilitation Hospital,2525 SW 75th Ave,Miami,FL,33155,,,Rehabilitation,
+Loma Linda University Heart and Surgical Hospital,26780 Barton Road,Redlands,CA,92373,,,General Acute Care,
+Redlands Community Hospital,350 Terracina Boulevard,Redlands,CA,92373,,,General Acute Care,
+Southern Winds Hospital,4225 W. 20th Ave,Hialeah,FL,33012,,,Psychiatric,
+Doctors Hospital,5000 University Drive,Coral Gables,FL,33146,,,General Acute Care,
+Canyon Ridge Hospital,"5353 G Street, Chino",Chino,CA,91710,,,Psychiatric,
+Chino Valley Medical Center,5451 Walnut Avenue,Chino,CA,91710,,,General Acute Care,
+Kindred Hospital - Ontario,550 North Monterey Avenue,Ontario,CA,91764,,,General Acute Care,Kindred
+Nicklaus Children’s Hospital - Allapattah,3445 NW 7th St,Miami,FL,33125,,,Children,
+South Miami Hospital,6200 SW 73rd St,Miami,FL,33143,,,General Acute Care,
+Hialeah Hospital,651 E. 25th St,Hialeah,FL,33013,,,General Acute Care,
+Larkin Community Hospital,7031 SW 62nd Ave,South Miami,FL,33143,,,General Acute Care,
+Kindred Hospital - San Gabriel Valley,845 North Lark Ellen Avenue,West Covina,CA,91791,,,General Acute Care,Kindred
+St. Catherine's West Rehabilitation Hospital,8850 NW 122nd St,Hialeah Gardens,FL,33018,,,Rehabilitation,
+Baptist Hospital of Miami,8900 N. Kendall Drive,Miami,FL,33176,,,General Acute Care,
+University of Miami Hospital and Clinics - Bascom Palmer Eye Institute,900 NW 17th St,Miami,FL,33136,,,Special,
+Mariners Hospital,91500 Overseas Highway,Tavernier,FL,33070,,,General Acute Care,
+Select Specialty Hospital - Miami,"955 NW 3rd St, 8th Floor",Miami,FL,33128,,,Long Term Care,
+Kaiser Permanente Hospital - Fontana,9961 Sierra Avenue,Fontana,CA,92335,,,General Acute Care,Kaiser

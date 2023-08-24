@@ -1,0 +1,3 @@
+Location Name,"Street Address (Required, street name and number)",City (Required),"State (Required, NN format)",Zip Code (Required),"Latitude (Optional, nnn.nnnnnn)","Longitude (Optional, nnn.nnnnnn)",Location Type (Optional),Location Group (Optional)
+Campus Pharmacy,100 UCLA MEDICAL PLAZA  STE #150,Los Angeles,CA,90024-7001,,,,
+Rite Aid #RA105433,1001 S GLENDON AVENUE,LOS ANGELES,CA,90024-0000,,,Rite Aid,

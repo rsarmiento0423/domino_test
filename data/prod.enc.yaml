@@ -1,0 +1,29 @@
+domino:
+    username: ENC[AES256_GCM,data:7JcFu2RGT9ovefIb8B8xjPkP93hQEQOhhInYYh80uxW3CQaLCw==,iv:tbppy0nrRUEKMAQB0R9/sv4hcHnOyUXqoCSvehDE+Q4=,tag:EdeN3wn+uFli6mEYV60Cfw==,type:str]
+    password: ENC[AES256_GCM,data:crNcIY878NtwkbDZFdpMaYg=,iv:It206Ma8rCDAUF2J82GFk3YNDFDlI18Gp8xztcPvk3c=,tag:UibQlMAgKLi84mjJdWrpZQ==,type:str]
+    consultant_us_admin: ENC[AES256_GCM,data:1epen+2T/vdd//fm9rmFiFJJxU/76JDK3lcSNK5dZv2Vjik/6HmgtA==,iv:z//APVbh5Rl0NzUvDsHnNnMOcFngPraCGo5GqIHIXhY=,tag:h6CFSpuQo5s6JOjH/FzC3w==,type:str]
+    consultant_us_contributor: ENC[AES256_GCM,data:ZH+nmFQC88jQWd/IpdKxB6U4dp9OX/xuwh/4ziN5nShYQXoY1xIYWg==,iv:FO+wEkdU1ZMoGE2SbNNHExE474ingj7PS/H7VC8It2g=,tag:AS6OQV3GZ1IxamQ4q4HeIg==,type:str]
+    nonconsultant_us_admin: ENC[AES256_GCM,data:cfwGT3VKxdOa9DHgjqyqEav/PPy0Gesk76Xp6NoJCy08lAUbIg==,iv:v5c0jJh3J/UGuRtr907OrpV4/0vL4pK3mgfTFad9rV0=,tag:SN5audxYVbrqOvVfRmWMFg==,type:str]
+    nonconsultant_us_contributor: ENC[AES256_GCM,data:3PxvvA4ud7zSwF2sNX3nUC4Sqyp8vOo8QdJxaPWC6LMP+Hyze2qs,iv:cUK6ZZinisj3V6PILxtCJA1WepC6WOxhmpoCVYma3vc=,tag:E1oPaj13bL+asQlHxlqBLQ==,type:str]
+    profile_us_user: ENC[AES256_GCM,data:7c7Du01V22sPupw6td284ioyT/bl8gEKx+eFdH6PlmaWLnfmEzsZkg==,iv:57t9t2OZhTrdVb0KUAWhZJJIx++5iJijVxuzvWN0vbQ=,tag:objwNpbK9IBWVh2uzang8Q==,type:str]
+    jp_user: ENC[AES256_GCM,data:GZKOrbtkWk/y2gIiqA9eALERDvJ2+Z/2BPskNgj5iUIxEwcYlA==,iv:drYVF/1VKZF+zMIWE8OgfBDb4N6L8XBxnI3crUYo09U=,tag:TR7Yxc8I+HeF1O7sHvQEYQ==,type:str]
+    share_location_user: ENC[AES256_GCM,data:FgPFcFVD8vBP9/dqvqrR5NGR5ovRF5x3jX+1WnnS/sXx+PxSV7jkrQ==,iv:NbHLzzBHZ2rfPmbcqwCdW6NF9+wBTs1ZJONySmpCmQM=,tag:051xu2FNmdIZamZjBSRJ8w==,type:str]
+    viewer_user: ENC[AES256_GCM,data:BFcj4TCF4wk6zdQfD/gj1YWn24CxGEe7iSByTcG0yfJOmLfLH/4=,iv:aXvQ1at5UmHPP4GOKYdxjM1YDsGoDmLgBLmOUpm+ZXM=,tag:H/upke5nSt+HxF6V+Y33sg==,type:str]
+    roi_us_user1: ENC[AES256_GCM,data:5v1SXYMDjt7nrKzhnDXMbwy+aHleQE/ZeGn9CBSOgOXFEQ==,iv:Lug/AsVbMEXQP/DTenxjjRBnhdIqB8E8gn5dM0okb3U=,tag:bmXjvSgltm0DOGN25QsdUw==,type:str]
+    roi_us_user2: ENC[AES256_GCM,data:+abxvo75tnO4jwUKPQc16wOKih0SxRQREmQks5zuvZlibw==,iv:ixLq9hUbRdOF/zrQdR4egrdD12mbI0p7fVaStK03J8s=,tag:S1BrLncXu+Ii2DT8T5EguA==,type:str]
+    roi_us_user3: ENC[AES256_GCM,data:/WTt481Awz24zYUmRXC7PXxZFBWiwdoW70buXkBaX6jAhA==,iv:lK4Xoiol9ir2XcaqtEqY9slX/hSyjXO/ChrD5Vn0mUg=,tag:enOzsb/d7fe83jlDspbTPQ==,type:str]
+    url: ENC[AES256_GCM,data:VyIoCGRO7KxD6c/5okPxsFBzvbaUW9htOKsCaagj,iv:+GyFpC1/493tDbWrQ1sMa1LD520leyPdM2Aix/BwxTM=,tag:aoWuC3N3rLzShSrttIM/Tw==,type:str]
+sops:
+    kms: []
+    gcp_kms:
+        - resource_id: projects/onec-prod/locations/global/keyRings/sops-prod-keyring/cryptoKeys/sops-prod-cryptokey
+          created_at: "2022-12-19T20:36:53Z"
+          enc: CiQAe4evQMMuCJhvNdJsMhze+jpd4e0biZAdDO3f0mVNcAwkYCMSSQDpggyR2PldS0Cj5PXSSPr+WNBj1wmMBVyD66ep8tSoYw0qg/m4tG6+x0YRVVLZYRivAC46x0bWsiOR7heKA+b9nDIePwKIm60=
+    azure_kv: []
+    hc_vault: []
+    age: []
+    lastmodified: "2023-07-24T22:40:08Z"
+    mac: ENC[AES256_GCM,data:5tARFdeofy8rzlZ3GLIUZeCILimriwFawUxUQRIm9Cgz0E+7xwFsatdvk/3fxMdBjcU8rUSB4GW7nRsgQWx3SX48GCT9JUxvmQR7U7xAWGpobrd9rHy2LznSgw5tOuGRm/I6WpcoO4JFeSQkYlGZDgCx1occxcbnii/ZAyBwYa0=,iv:4Bp78q5QEaE9dgMek4fL2TExB9LOXSPKrIRSCI8/P0Q=,tag:WeVAe11STwx7sAfV8BR2+A==,type:str]
+    pgp: []
+    unencrypted_suffix: _unencrypted
+    version: 3.7.3

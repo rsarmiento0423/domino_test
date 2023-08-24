@@ -1,0 +1,13 @@
+Location Name,"Street Address (Required, street name and number)",City (Required),"State (Required, NN format)",Zip Code (Required),"Latitude (Optional, nnn.nnnnnn)","Longitude (Optional, nnn.nnnnnn)",Location Type (Optional),Location Group (Optional)
+Kaiser Permanente #02671,1 Quality Drive,Vacaville,CA,95688-9494,,,,
+Walgreens Co. #4107,10 W MAIN ST,WOODLAND,CA,95695-3016,,,Walgreens,
+Rite Aid #RA105815,100 CHINA GRADE LOOP,BAKERSFIELD,CA,93308-1739,,,Rite Aid,
+Walgreens Co. #6856,100 N IMPERIAL AVE,EL CENTRO,CA,92243-2809,,,Walgreens,
+Campus Pharmacy,100 UCLA MEDICAL PLAZA  STE #150,Los Angeles,CA,90024-7001,,,,
+Walgreens Co. #7303,100 W ONTARIO AVE,CORONA,CA,92882-5215,,,Walgreens,
+Walgreens Co. #3476,100 W WALNUT AVE,VISALIA,CA,93277-5367,,,Walgreens,
+Walmart Inc #10-5641,1000 E Imperial Hwy,La Habra,CA,90631-7452,,,Walmart,
+Rite Aid #RA106512,1000 W MONTE VISTA AVENUE,TURLOCK,CA,95382-0406,,,Rite Aid,
+Rite Aid #RA106214,1001 NORTH CENTRAL AVENUE,COMPTON,CA,90222-3647,,,Rite Aid,
+Rite Aid #RA105433,1001 S GLENDON AVENUE,LOS ANGELES,CA,90024-0000,,,Rite Aid,
+Walgreens Co. #16561,1001 W. CARSON ST.,TORRANCE,CA,90502-2051,,,Walgreens,

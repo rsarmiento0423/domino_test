@@ -1,0 +1,4 @@
+Location Name,"Street Address (Required, street name and number)",City (Required),"State (Required, NN format)",Zip Code (Required),"Latitude (Optional, nnn.nnnnnn)","Longitude (Optional, nnn.nnnnnn)",Location Type (Optional),Location Group (Optional)
+Office 15,14700 Caribbean Way,Miramar,FL ,33027,,,Industrial,Candidate
+Industrial 14,110 SE Taylor St,Portland,OR,97214,,,Industrial,Portfolio
+Hospitality 8,131 Downer Street,"Baldwinsville,",NY,13027,,,Industrial,Portfolio
